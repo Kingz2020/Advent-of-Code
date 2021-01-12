@@ -1,6 +1,5 @@
 # Advent-of-Code
 
-my results for the python programming challenge advent of code
+my results for the python programming challenge advent of code on this website : https://adventofcode.com
 
-- Day 1
-don't forget to add the aoc.xlsx file directly under the python file. This contains the list of numbers.
+- its several python challenges to keep warm.
