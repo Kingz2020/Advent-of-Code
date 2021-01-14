@@ -40,7 +40,7 @@ def find_column(word):
 def find_highest_seatid(df):
     """"""
     highest = 0
-    for row in df.iterrows():
+    for idx, row in df.iterrows():
         seatid = find_row(row[0]) * 8 + find_column(row[0])
         if seatid > highest:
             highest = seatid
